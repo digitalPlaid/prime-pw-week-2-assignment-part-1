@@ -73,7 +73,7 @@ if (pets >= 0 && friendsPets >= 0){
 
 
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
-let mostPets = 0;
+mostPets = 0;
 switch(true) {
     case (pets >= friendsPets && pets >= 0 && friendsPets >= 0): {
         mostPets = pets;
