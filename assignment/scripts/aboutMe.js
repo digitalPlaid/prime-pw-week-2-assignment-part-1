@@ -91,5 +91,5 @@ console.log(mostPets)
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
     // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!", 
     // if it's not true, console log "How about we stay home?"
-let adventurous = true;
+adventurous = true;
 console.log(adventurous ? 'Advnetures are great!' : 'How about we stay at home?')
